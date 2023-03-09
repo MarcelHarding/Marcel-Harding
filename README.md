@@ -17,4 +17,3 @@
   <img align="center" alt="Marcel-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
 </div>
-
