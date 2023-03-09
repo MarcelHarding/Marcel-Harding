@@ -1,7 +1,7 @@
 # Marcel-Harding
 👋 Hi, I’m @MarcelHarding
 - 👀 I’m interested in Data Analyst, Business intelligence, Data science
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently learning Data science at [**Udemy**](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/10773874?start=15#overview)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me marcelhl@hotmail.com
 
